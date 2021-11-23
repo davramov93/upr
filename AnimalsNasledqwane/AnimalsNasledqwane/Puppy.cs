@@ -13,6 +13,7 @@ namespace AnimalsNasledqwane
         public void Weep()
         {
             Console.WriteLine("weeping");
+            console.WriteLINE("towa e greshno");
         }
     }
 }
